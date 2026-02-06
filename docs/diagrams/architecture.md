@@ -41,5 +41,3 @@ I picked first group "App initialization and Auth" that block manages the proces
 components: user -> app
 
 data: app starts
-
-##
